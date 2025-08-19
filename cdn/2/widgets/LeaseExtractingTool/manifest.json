@@ -1,0 +1,13 @@
+{
+  "name": "LeaseExtractingTool",
+  "label": "Lease Extracting Tool",
+  "version": "1.0.0",
+  "exbVersion": "1.11.0",
+  "type": "widget",
+  "author": "Ash Belwolff",
+  "description": "Widget for extracting lease data and layouts",
+  "license": "MIT",
+  "supportMapWidget": true,
+  "useMapWidget": true,
+  "properties": {}
+}
