@@ -1,0 +1,75 @@
+{
+  "1745375420550.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1745375420550.png",
+    "properties": {
+      "filename": "1745375420550.png",
+      "originalName": "Question Mark Icon.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1745375420550.png",
+      "color": "var(--ref-palette-neutral-1100)",
+      "size": 16,
+      "inlineSvg": false,
+      "isUploaded": true
+    }
+  },
+  "1745375506983.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1745375506983.png",
+    "properties": {
+      "filename": "1745375506983.png",
+      "originalName": "question-mark.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1745375506983.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1745375645455.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1745375645455.png",
+    "properties": {
+      "filename": "1745375645455.png",
+      "originalName": "question-mark (1).png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1745375645455.png",
+      "inlineSvg": false
+    }
+  },
+  "1745977113443.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1745977113443.png",
+    "properties": {
+      "filename": "1745977113443.png",
+      "originalName": "draw icon.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1745977113443.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1750817981617.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1750817981617.png",
+    "properties": {
+      "filename": "1750817981617.png",
+      "originalName": "Q Mark Click Here Icon.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1750817981617.png",
+      "color": "var(--ref-palette-neutral-1100)",
+      "size": 16,
+      "inlineSvg": false,
+      "isUploaded": true
+    }
+  },
+  "1750818187437.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1750818187437.png",
+    "properties": {
+      "filename": "1750818187437.png",
+      "originalName": "Q Mark Click Here Icon.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1750818187437.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1750818260566.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1750818260566.png",
+    "properties": {
+      "filename": "1750818260566.png",
+      "originalName": "Q Mark Click Here Icon.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1750818260566.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}
